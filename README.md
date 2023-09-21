@@ -3,7 +3,7 @@
 <h3>🚀 About Me</h3>
 <div>
   <ul>
-    <li>🌱 I'm a front end jr developer with systems development technician and i'm currently looking to specialize even more in web development </li>
+    <li>🌱 I'm a front end developer with systems development technician and i'm currently looking to specialize even more in web development </li>
     <li>👨‍💻 Passionate about codes and always aiming to evolve with good practices</li>
   </ul>
 </div>
