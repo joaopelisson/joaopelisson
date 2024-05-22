@@ -10,13 +10,33 @@
 
 ---
 
-<div align="center">
-  <h3>Did you like my work & projects?</h3>
-  <h4>can you support me 😉</h4>
+<h3>⚡ Main certifications</h3>
 
-  <a href="https://www.buymeacoffee.com/joaopelisson" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<div>
+  <a href="https://learn.microsoft.com/pt-br/users/joaopelisson/credentials/f579cd1cdb3cf3af" target="_blank">Microsoft Certified: Azure Developer Associate | AZ-204</a>
+  <ul>
+    <li>Develop Azure compute solutions</li>
+    <li>Develop for Azure Storage</li>
+    <li>Implement Azure security</li>
+    <li>Monitor, troubleshoot, and optimize Azure solutions</li>
+    <li>Connect and consume Azure services and third-party services</li>
+  </ul>
+
+  <a href="https://learn.microsoft.com/pt-br/users/joaopelisson/credentials/b1abd4830a8ebbe" target="_blank">Microsoft Certified: Azure Fundamentals | AZ-900</a>
+  <ul>
+    <li>Describe cloud concepts</li>
+    <li>Describe Azure architecture and services</li>
+    <li>Describe Azure management and governance</li>
+  </ul>
+
+  <div align="center">
+      <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="170"  alt="Microsoft Certified: Azure Developer Associate | AZ-204" />
+      <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="170" alt="Microsoft Certified: Azure Fundamentals | AZ-900" />
+  </div>
+
+  <p>More certifications available at <a href="https://www.linkedin.com/in/joaopedrovp/" target="_blank">my Linkedin</a></p>
+  
 </div>
- 
 
 ---
 
@@ -31,6 +51,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jquery/jquery-original.svg" title="jquery" height="24px" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/sass/sass-original.svg" title="sass" height="24px" />  
 </div>
+
+---
 
 <h3>🛠️ Softwares experiences</h3>
 <div>
