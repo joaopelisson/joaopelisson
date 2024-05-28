@@ -69,5 +69,4 @@
     <img height="140px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopelisson&layout=compact&langs_count=7&theme=dark"/>
   </a> <img height="140px"  src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" />
   
-##### ⚠ I'm migrating some projects to this profile, but you can view my old github <a href="https://github.com/joaopnk" target="__blank">by clicking here</a>! 
 </div>
