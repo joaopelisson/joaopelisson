@@ -3,10 +3,11 @@
 <h3>🚀 About Me</h3>
 <div>
   <ul>
-    <li>🌱 I'm developer with systems development technician and i'm currently looking to specialize even more in web development </li>
-    <li>👨‍💻 Passionate about codes and always aiming to evolve with good practices</li>
+    <li>🌱 I'm a developer with a Systems Development Technician background, currently pursuing a degree in Analysis and Systems Development at <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>, and I'm looking to specialize even more in web development.</li>
+    <li>👨‍💻 Passionate about coding and always aiming to evolve with good practices.</li>
   </ul>
 </div>
+
 
 ---
 
