@@ -1,5 +1,3 @@
-## Hello, my name is João Pedro but if you prefer you can call me JP! 😀
-
 <h3>🚀 About Me</h3>
 <div>
   <ul>
