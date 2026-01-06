@@ -1,8 +1,10 @@
 <h3>🚀 About Me</h3>
 <div>
   <ul>
-    <li>🌱 I'm a developer with a Systems Development Technician background, currently pursuing a degree in Analysis and Systems Development at <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>, and I'm looking to specialize even more in web development.</li>
-    <li>👨‍💻 Passionate about coding and always aiming to evolve with good practices.</li>
+    <li>Software Engineer focused on building scalable, maintainable, and well-architected systems.</li>
+    <li>Currently working mainly with <strong>React</strong> on the front-end and <strong>.NET</strong> on the back-end, with experience in mobile development using <strong>Flutter</strong> and <strong>React Native</strong>.</li>
+    <li>Strong interest in system architecture, clean code, technical decision-making, and long-term system evolution.</li>
+    <li>Constantly improving my engineering practices, performance optimization, and software design skills.</li>
   </ul>
 </div>
 
